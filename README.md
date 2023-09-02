@@ -1,4 +1,4 @@
-#Personal #Portfolio #Website
+Personal Portfolio Website
 
 Live Preview:https://sompadma.netlify.app/
 
